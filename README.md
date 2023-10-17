@@ -3,6 +3,14 @@
 
 Official repo : [https://github.com/tjukanovt/30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)
 
-Ressources :
+## [Jour 1 : des points](day1.md)
+
+![Alt text](maps/day1_thumbnail.png)
+
+Evolution, sur quelques années, de la qualité physico-chimique des rivières. \
+Mots clés : QGis, Expressions, Time-manager
+
+## Ressources
+
 - https://data.humdata.org/dataset/kontur-population-dataset
 - https://www.gsi.go.jp/kankyochiri/gm_global_e.html (végétation)
