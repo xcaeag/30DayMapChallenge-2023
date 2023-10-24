@@ -20,3 +20,4 @@ Mots clés : QGis, Expressions, Time-manager
 - https://cartonumerique.blogspot.com/p/fonds-carte-sig.html
 - https://www.iucnredlist.org/resources/spatial-data-download (espèces)
 - http://worldmapcreator.com/#!/application (projections)
+- https://projectionwizard.org/# (projections)
