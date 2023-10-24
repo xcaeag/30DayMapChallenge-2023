@@ -16,4 +16,6 @@ Mots clés : QGis, Expressions, Time-manager
 - https://www.gsi.go.jp/kankyochiri/gm_global_e.html (végétation)
 - https://pcjericks.github.io/py-gdalogr-cookbook/raster_layers.html (cost path)
 - https://www.gebco.net/data_and_products/gridded_bathymetry_data/ (bathy)
+- https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K (îles)
 - https://cartonumerique.blogspot.com/p/fonds-carte-sig.html
+- https://www.iucnredlist.org/resources/spatial-data-download
