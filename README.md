@@ -3,7 +3,7 @@
 
 Official repo : [https://github.com/tjukanovt/30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)
 
-Tenté par le défit, vous ne trouverez pas là de belles cartes quotidiennes, mais quelques bouts de code et recettes autour de QGis, que je manipule depuis qq années déjà.
+Tenté par le défi, vous ne trouverez pas là de belles cartes quotidiennes, mais quelques bouts de code et recettes autour de QGis, que je manipule depuis qq années déjà.
 
 ## [Jour 1 : des points](day1.md)
 
