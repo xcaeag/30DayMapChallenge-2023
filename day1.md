@@ -1,10 +1,10 @@
 ## Jour 1 : Points
 
-Evolution, sur quelques années, de la qualité physico-chimique des rivières. 
+__Evolution, sur quelques années, de la qualité physico-chimique des rivières.__
 
 Mesurée en des points 'station qualité', les analyses aggrégées en indicateurs annuels sont ici animées sur 1 km en amont et en aval, et persistent 3 ans pour donner l'impression de couler !
 
-![Alt text](maps/day1_thumbnail.png)
+![Alt text](maps/30days2023-day1-pc-10-22.gif)
 
 Mots clé : QGis, Expressions, Time-manager, générateur de géométrie.
 
@@ -42,3 +42,4 @@ L'expression pour régler la taille des pastilles (même principe pour la transp
 
 Les données : [https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1](https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1)
 
+Outil : QGis
