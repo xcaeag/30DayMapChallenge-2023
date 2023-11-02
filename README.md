@@ -7,10 +7,23 @@ Tenté par le défi, vous ne trouverez pas là de belles cartes quotidiennes, ma
 
 ## [Jour 1 : des points](day1.md)
 
-![Alt text](maps/30days2023-day1-pc-10-22.gif)
+![day1](maps/30days2023-day1-pc-10-22.gif)
 
 Evolution, sur quelques années, de la qualité physico-chimique des rivières. \
 Mots clés : QGis, Expressions, Time-manager
+
+
+## [Jour 2 : des lignes](day2.md)
+
+![day2](maps/30days2023-day2-rachel.thumbnail.jpg)
+
+Un texte posé sur courbes de niveau.
+
+[En grand](https://flic.kr/s/aHBqjB1Sdv)
+
+
+QGis, Python
+
 
 ## Ressources
 
