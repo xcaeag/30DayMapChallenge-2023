@@ -24,6 +24,13 @@ Un texte posé sur courbes de niveau.
 
 QGis, Python
 
+## [Jour 3 : des polygones](day3.md)
+
+![Alt text](maps/30days2023-day3-corse.thumbnail.jpg)
+
+La Corse en petits polygones de voronoï, exposition et pentes.
+
+QGis
 
 ## Ressources
 
