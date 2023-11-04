@@ -5,6 +5,10 @@ Les données sont correctes ! Mais...
 
 ![Alt text](maps/30days2023-day4-badmap.jpg)
 
+Astuce : obtenir un fond de carte des pays en une seconde en tapant "world" dans la zone des coordonnées !
+
+![Alt text](maps/30days2023-day6-asia-tip.png)
+
 Dans le gestionnaire de Base de données, le requêtage des couches du projet (couches virtuelles) est bien pratique quand on est un peu familiarisé avec SQL !
 
 Interroger un fichier CSV, exporter le résultat dans un Geopackage devient facile.
