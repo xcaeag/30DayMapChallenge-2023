@@ -32,6 +32,13 @@ La Corse en petits polygones de voronoï, exposition et pentes.
 
 QGis
 
-## Ressources
+## [Jour 4 : A bad map](day4.md)
+
+Projection, titre, couleurs... que du beau !
+
+![Alt text](maps/30days2023-day4-badmap.jpg)
+
+## Ressources 
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
+- https://population.un.org/wpp/Download/Standard/MostUsed/ (stats population U.N.)
