@@ -38,7 +38,16 @@ Projection, titre, couleurs... que du beau !
 
 ![Alt text](maps/30days2023-day4-badmap.jpg)
 
-## Ressources 
+## Jour 5 : Analog Map
+
+Un cèdre sec. Réserve naturelle des cèdres du Chouf, Liban. 
+
+![Alt text](maps/30days2023-day5-cedre.jpg)
+
+https://flic.kr/s/aHBqjB1Sdv
+
+
+## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
 - https://population.un.org/wpp/Download/Standard/MostUsed/ (stats population U.N.)
