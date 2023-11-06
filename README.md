@@ -46,8 +46,16 @@ Un cèdre sec. Réserve naturelle des cèdres du Chouf, Liban.
 
 https://flic.kr/s/aHBqjB1Sdv
 
+## [Jour 6 : Asia](day6.md)
+
+Terres en mer... 
+
+![Alt text](maps/30days2023-day6-asia.thumbnail.jpg)
+
 
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
 - https://population.un.org/wpp/Download/Standard/MostUsed/ (stats population U.N.)
+- https://www.gebco.net/data_and_products/gridded_bathymetry_data/  (bathy)
+- https://www.naturalearthdata.com/downloads/
