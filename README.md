@@ -71,3 +71,6 @@ Données : IGN RGE Alti, OpenStreetMap
 - https://population.un.org/wpp/Download/Standard/MostUsed/ (stats population U.N.)
 - https://www.gebco.net/data_and_products/gridded_bathymetry_data/  (bathy)
 - https://www.naturalearthdata.com/downloads/
+- https://geoservices.ign.fr/rgealti (dem france)
+- https://www.openstreetmap.org
+  
