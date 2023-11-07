@@ -52,6 +52,18 @@ Terres en mer...
 
 ![Alt text](maps/30days2023-day6-asia.thumbnail.jpg)
 
+## Jour 7 : Navigation
+
+Les îles du milieu
+ou îles (massive) centrales
+
+![Les îles du milieu](maps/30days2023-day7-navigation.thumbnail.jpg)
+
+![détail](maps/30days2023-day7-navigation-zoom.jpg)
+
+https://flic.kr/s/aHBqjB1Sdv
+
+Données : IGN RGE Alti, OpenStreetMap
 
 ## Ressources utilisées pour le défi
 
