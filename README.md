@@ -73,6 +73,14 @@ Terres en mer...  voir jour 6 pour la technique exploitée.
 
 https://flic.kr/s/aHBqjB1Sdv
 
+## [Jour 9 : Hexagons](day9.md)
+
+Sur une idée d'un (petit) neveu, tentative non aboutie de rendu 'fantasy'... mais où sont les hexagones ?
+
+Réponse sous le titre.
+
+![Alt text](maps/30days2023-day9-hexagon.jpg)
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
