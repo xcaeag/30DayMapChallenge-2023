@@ -1,4 +1,5 @@
-data/*
 maps/30days2023-day8-africa.jpg
 README.md
 maps/30days2023-day7-navigation-big.jpg
+data/*
+!data/*.png
