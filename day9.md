@@ -41,7 +41,11 @@ Il suffit ensuite de paramétrer le symbole SVG par une expression du type : 'fa
 
 ![arbres](data/day9-algo2.png)
 
-[Les SVG ici](svg/). Vous pouvez les modifier pour faire encore mieux, paramétrer couleur, épaisseur de trait... (https://docs.qgis.org/3.10/en/docs/user_manual/style_library/symbol_selector.html#marker-symbols).
+[Les SVG ici](svg/). Vous pouvez les modifier pour faire encore mieux en paramétrant couleurs, épaisseur de trait... (https://docs.qgis.org/3.10/en/docs/user_manual/style_library/symbol_selector.html#marker-symbols).
+
+Pour la mise en page : une image de fond (texture vieux papier glanée sur le web), et des modes de fusion 'multiplication' ou  'superposition' pour fondre un peu les éléments avec le fond.
+
+![Mise en forme](data/day9-algo3.png)
 
 __Le script__
 ```python
