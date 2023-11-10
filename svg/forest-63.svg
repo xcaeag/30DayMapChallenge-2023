@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="86.6"
+   viewBox="0 0 100 86.6"
+   version="1.1"
+   id="forest-63"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <path
+     id="hexagone"
+     style="fill: #ffffff;fill-opacity:1;stroke: #ffffff;stroke-width:param(outline-width)0.3;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 24.270837,28.823532 49.36719,13.852155 75,28.9 V 57.7 L 50,72.17 24.454812,57.922207 Z" />
+</svg>

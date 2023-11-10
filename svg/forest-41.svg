@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="86.6"
+   viewBox="0 0 100 86.6"
+   version="1.1"
+   id="forest-41"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57176" />
+  <path
+     id="hexagone"
+     style="fill: #ffffff;fill-opacity:1;stroke: #ffffff;stroke-width:param(outline-width)0.3;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 25,28.9 50,14.43 75,28.9 V 57.7 L 50,72.17 28.103885,51.150078 Z" />
+  <path
+     style="fill: #ffffff;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="m 50,14.43 c 0,0 10.075318,1.981766 11.461814,3.157225 C 62.84831,18.762685 75,28.9 75,28.9"
+     id="path57291" />
+  <path
+     style="fill: #ffffff;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="m 25,28.9 c 0,0 -2.074955,9.393878 -2.074955,9.991805 0,0.597926 4.033418,9.433526 4.525019,10.620608 0.491601,1.187082 -1.655975,4.91354 -1.655975,4.91354 0,0 2.753677,5.10385 7.983301,7.033503 C 39.007015,63.389109 50,72.17 50,72.17"
+     id="path57293" />
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="86.6"
+   viewBox="0 0 100 86.6"
+   version="1.1"
+   id="forest-42"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6738" />
+  <path
+     id="hexagone"
+     style="fill: #ffffff;stroke: #ffffff;stroke-width:param(outline-width)0.3;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+     d="M 25,28.9 50,14.43 75,28.9 75,57.7 50,72.17 25,57.7 Z" />
+  <path
+     style="fill: #ffffff;fill-opacity:1;stroke: #000000;stroke-width:param(outline-width)1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;stroke-opacity:1"
+     d="m 49.767844,14.219384 c 0,0 -10.862029,1.38244 -12.441961,2.369897 -1.579932,0.987458 -9.479589,-0.394983 -12.836944,1.974915 -3.357354,2.369897 -2.369897,7.899658 -2.369897,7.899658 0,0 -11.651995,3.554846 -11.651995,11.651995 0,8.097149 10.072063,13.429418 10.072063,13.429418 0,0 -8.29464,5.332269 -7.504675,10.269555 0.789966,4.937286 19.749145,4.739795 19.749145,4.739795 0,0 13.231927,8.689623 17.181755,5.727252"
+     id="path8672" />
+</svg>

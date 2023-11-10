@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="86.6"
+   viewBox="0 0 100 86.6"
+   version="1.1"
+   id="forest-3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31900" />
+  <path
+     id="hexagone"
+     style="fill: #ffffff;fill-opacity:1;stroke: #ffffff;stroke-width:param(outline-width)0.3;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 25,28.9 25,-14.47 25,14.47 -6.382583,1.971471 2.481522,3.748391 -0.108418,15.057513 -6.230917,4.263432 c -1.341792,2.463162 0.839197,6.771262 -1.69427,9.375139 -2.533468,2.603878 -13.506536,6.248126 -13.506536,6.248126 L 30.925795,55.675992 Z" />
+  <path
+     style="fill: #ffffff;fill-opacity:1;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 25,28.9 c 0,0 -3.70781,15.375865 -3.816699,19.05436 -0.10889,3.678494 9.742494,7.721632 9.742494,7.721632 0,0 -2.253984,7.821332 3.179318,11.453291 5.433302,3.631958 12.728192,4.431387 12.728192,4.431387 L 50,72.17"
+     id="path32015" />
+  <path
+     style="fill:none;fill-opacity:1;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 75,28.9 -6.382583,1.971471 c 0,0 1.838815,0.874994 2.821107,3.823643 0.982291,2.94865 -0.448003,14.982261 -0.448003,14.982261 0,0 -4.014634,3.037392 -6.230917,4.263432 -2.216283,1.22604 2.25832,3.631788 -0.707077,8.283188 -2.965398,4.6514 -14.493729,7.340077 -14.493729,7.340077"
+     id="path32017" />
+  <path
+     style="fill: #ffffff;fill-opacity:1;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 45.270955,69.568002 c 0,0 -2.391554,16.022353 -1.7601,15.812447 0.631455,-0.209906 8.622753,-0.156074 8.622753,-0.156074 l -2.156746,-18.84627"
+     id="path32019" />
+  <path
+     style="fill:none;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 25,28.9 c 0,0 5.887904,-6.017784 9.102264,-6.645059"
+     id="path33519" />
+</svg>

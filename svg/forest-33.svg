@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="86.6"
+   viewBox="0 0 100 86.6"
+   version="1.1"
+   id="forest-33"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15515" />
+  <path
+     id="hexagone"
+     style="fill: #ffffff;fill-opacity:1;stroke: #ffffff;stroke-width:param(outline-width)0.3;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 25,28.9 50,14.43 68.822778,28.566937 75,57.7 50,72.17 35.258028,53.243521 Z" />
+  <path
+     style="fill: #ffffff;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 50,14.4 c 0,0 6.912813,-1.810237 11.676436,-0.188929 4.763623,1.621307 9.866556,13.640424 8.74431,18.621486"
+     id="path15729" />
+  <path
+     style="fill: #ffffff;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 68.822778,28.566937 c 0.766536,0.295485 7.902438,2.624391 9.212636,9.826026 C 79.345612,45.594598 75,57.73 75,57.73"
+     id="path15731" />
+  <path
+     style="fill: #ffffff;stroke: #000000;stroke-width:param(outline-width)1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+     d="m 25,28.9 -1.367232,10.605051 3.534773,7.25381 c 0,0 0.809892,10.849548 6.265961,14.502793 5.456069,3.653245 12.785968,6.266894 12.785968,6.266894 L 50,72.17"
+     id="path15733" />
+</svg>
