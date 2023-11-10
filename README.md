@@ -81,6 +81,13 @@ Réponse sous le titre.
 
 ![Alt text](maps/30days2023-day9-hexagon.jpg)
 
+## Jour 10 : North America
+
+Terres en mer, encore.\
+cf. Jour 6.
+
+![North America](maps/30days2023-day10-north-america.thumbnail.jpg)
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
