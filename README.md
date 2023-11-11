@@ -88,6 +88,16 @@ cf. Jour 6.
 
 ![North America](maps/30days2023-day10-north-america.thumbnail.jpg)
 
+
+## [Jour 11 : Retro](day11.md)
+
+Une vieille carte d'excursion.
+
+![Alt text](maps/30days2023-day11-retro.thumbnail.jpg)
+
+![Alt text](maps/guide-soubiron-0162-carte.jpg)
+
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
