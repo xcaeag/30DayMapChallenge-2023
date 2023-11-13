@@ -92,11 +92,37 @@ cf. Jour 6.
 ## [Jour 11 : Retro](day11.md)
 
 Une vieille carte d'excursion.
-
 ![Alt text](maps/30days2023-day11-retro.thumbnail.jpg)
 
 ![Alt text](maps/guide-soubiron-0162-carte.jpg)
 
+## Jour 12 : South America
+
+![Alt text](maps/30days2023-day12-south-america.thumbnail.jpg)
+
+## Jour 13 : Choropleth
+
+Premier tour des élections présidentielles (FR) 2022.
+Choroplèthe à 4 composantes de couleurs pour 4 familles politiques (CMYK, ou CMJN pour cyan, magenta, jaune, noir).
+
+
+![Alt text](maps/30days2023-day13-patchwork.thumbnail.jpg)
+
+
+Expression à utiliser pour la couleur (QGis). Au préalable, créer les colonnes "scores" adéquates selon vos idées.
+
+L'amplitude des couleurs est améliorée par la normalisation des scores, image trop fade sinon !
+
+```python
+color_cmyka(
+	100*("score_famille_a")/maximum("score_famille_a"), 
+	100*("score_famille_b")/maximum("score_famille_b"), 
+	100*("score_famille_c")/maximum("score_famille_c"), 
+	100*("score_famille_d")/maximum("score_famille_d"), 
+	255
+)
+```
+données : https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/
 
 ## Ressources utilisées pour le défi
 
@@ -106,4 +132,7 @@ Une vieille carte d'excursion.
 - https://www.naturalearthdata.com/downloads/
 - https://geoservices.ign.fr/rgealti (dem france)
 - https://www.openstreetmap.org
+- https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/
+
+
   
