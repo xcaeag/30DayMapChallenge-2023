@@ -26,7 +26,7 @@ QGis, Python
 
 ## [Jour 3 : des polygones](day3.md)
 
-![Alt text](maps/30days2023-day3-corse.thumbnail.jpg)
+![Corse](maps/30days2023-day3-corse.thumbnail.jpg)
 
 La Corse en petits polygones de voronoï, exposition et pentes.
 
@@ -36,13 +36,13 @@ QGis
 
 Projection, titre, couleurs... que du beau !
 
-![Alt text](maps/30days2023-day4-badmap.jpg)
+![Bad Map](maps/30days2023-day4-badmap.jpg)
 
 ## Jour 5 : Analog Map
 
 Un cèdre sec. Réserve naturelle des cèdres du Chouf, Liban. 
 
-![Alt text](maps/30days2023-day5-cedre.jpg)
+![Lebanon cedar](maps/30days2023-day5-cedre.jpg)
 
 https://flic.kr/s/aHBqjB1Sdv
 
@@ -50,7 +50,7 @@ https://flic.kr/s/aHBqjB1Sdv
 
 Terres en mer... 
 
-![Alt text](maps/30days2023-day6-asia.thumbnail.jpg)
+![Asia](maps/30days2023-day6-asia.thumbnail.jpg)
 
 ## Jour 7 : Navigation
 
@@ -69,7 +69,7 @@ Données : IGN RGE Alti, OpenStreetMap
 
 Terres en mer...  voir jour 6 pour la technique exploitée.
 
-![Alt text](maps/30days2023-day8-africa.thumbnail.jpg)
+![Africa](maps/30days2023-day8-africa.thumbnail.jpg)
 
 https://flic.kr/s/aHBqjB1Sdv
 
@@ -79,7 +79,7 @@ Sur une idée d'un (petit) neveu, tentative non aboutie de rendu 'fantasy'... ma
 
 Réponse sous le titre.
 
-![Alt text](maps/30days2023-day9-hexagon.jpg)
+![Europe](maps/30days2023-day9-hexagon.jpg)
 
 ## Jour 10 : North America
 
@@ -92,13 +92,13 @@ cf. Jour 6.
 ## [Jour 11 : Retro](day11.md)
 
 Une vieille carte d'excursion.
-![Alt text](maps/30days2023-day11-retro.thumbnail.jpg)
+![Rero](maps/30days2023-day11-retro.thumbnail.jpg)
 
-![Alt text](maps/guide-soubiron-0162-carte.jpg)
+![Soubiron](maps/guide-soubiron-0162-carte.jpg)
 
 ## Jour 12 : South America
 
-![Alt text](maps/30days2023-day12-south-america.thumbnail.jpg)
+![South-America](maps/30days2023-day12-south-america.thumbnail.jpg)
 
 ## Jour 13 : Choropleth
 
@@ -106,7 +106,7 @@ Premier tour des élections présidentielles (FR) 2022.
 Choroplèthe à 4 composantes de couleurs pour 4 familles politiques (CMYK, ou CMJN pour cyan, magenta, jaune, noir).
 
 
-![Alt text](maps/30days2023-day13-patchwork.thumbnail.jpg)
+![Choropleth](maps/30days2023-day13-patchwork.thumbnail.jpg)
 
 
 Expression à utiliser pour la couleur (QGis). Au préalable, créer les colonnes "scores" adéquates selon vos idées.
@@ -123,6 +123,11 @@ color_cmyka(
 )
 ```
 données : https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/
+
+## Jour 14 : Europe
+
+![Europe](maps/30days2023-day14-europa.thumbnail.jpg)
+
 
 ## Ressources utilisées pour le défi
 
