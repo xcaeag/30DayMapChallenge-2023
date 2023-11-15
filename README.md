@@ -128,6 +128,13 @@ données : https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-e
 
 ![Europe](maps/30days2023-day14-europa.thumbnail.jpg)
 
+## [Jour 15 : OpenStreetMap](day15.md)
+
+Des échangeurs autoroutiers démesurés
+
+![OSM roads](maps/30days2023-day15-osm.thumbnail.jpg)
+
+![Détail](maps/30days2023-day15-zoom.thumbnail.jpg)
 
 ## Ressources utilisées pour le défi
 
