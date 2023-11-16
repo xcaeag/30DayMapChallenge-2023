@@ -136,6 +136,14 @@ Des échangeurs autoroutiers démesurés
 
 ![Détail](maps/30days2023-day15-zoom.thumbnail.jpg)
 
+Données : OpenStreetMap
+
+## Jour 16 : Oceania
+
+![Alt text](maps/30days2023-day16-oceania.thumbnail.jpg)
+
+Données : https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
@@ -146,5 +154,4 @@ Des échangeurs autoroutiers démesurés
 - https://www.openstreetmap.org
 - https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/
 - https://download.bbbike.org
-
-  
+- https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K (îles)
