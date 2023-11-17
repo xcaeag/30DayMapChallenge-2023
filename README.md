@@ -144,6 +144,18 @@ Données : OpenStreetMap
 
 Données : https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K
 
+## Jour 17 : Flow
+
+Les rivières du sud-ouest (fr) en papier découpé. 
+
+![Alt text](maps/30days2023-day17-flow-640b.gif)
+
+Outil : QGis+Python. 
+
+Données : bd Carthage.
+
+Des expressions, un peu de python un jour, si j'arrive à déboguer et me relire !
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
