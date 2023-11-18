@@ -156,6 +156,18 @@ Données : bd Carthage.
 
 Des expressions, un peu de python un jour, si j'arrive à déboguer et me relire !
 
+## Jour 18 : Atmosphere
+
+Comparaison des températures mensuelles avec la période 1940-1949 (du même mois), sur la France.
+
+La palette du bleu au rouge pour des écarts de -6° à +6°C. Deux années dans la largeur.
+
+On remarque l'hiver 56 en haut à gauche, celui de 86 aussi. Des réchauffements plutôt hivernaux... 
+
+données : https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means
+
+![warm](maps/30days2023-atmosphere.jpg)
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
@@ -167,3 +179,4 @@ Des expressions, un peu de python un jour, si j'arrive à déboguer et me relire
 - https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-definitifs-du-1er-tour/
 - https://download.bbbike.org
 - https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K (îles)
+- https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means
