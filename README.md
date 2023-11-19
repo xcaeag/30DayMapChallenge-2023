@@ -172,7 +172,8 @@ données : https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-si
 
 ![Alt text](maps/30days2023-day19-5min.thumbnail.jpg)
 
-En plus fin là : https://flic.kr/s/aHBqjB1Sdv
+En plus fin là : https://flic.kr/s/aHBqjB1Sdv\
+données : https://opensky-network.org/datasets/states
 
 ## Ressources utilisées pour le défi
 
@@ -186,3 +187,4 @@ En plus fin là : https://flic.kr/s/aHBqjB1Sdv
 - https://download.bbbike.org
 - https://dataverse.ird.fr/dataset.xhtml?persistentId=doi:10.23708/T37S0K (îles)
 - https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means
+- https://opensky-network.org/datasets/states
