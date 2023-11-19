@@ -4,6 +4,8 @@
 
 __5 minute de vol__
 
+![Alt text](maps/30days2023-day19-5min.thumbnail.jpg)
+
 Une date au hasard, et une archive glanée à la va vite sur "opensky" : Le 27 juin 2022, à 13h.\
 Le site étant en standby, pas de données temps-réel.. 
 
