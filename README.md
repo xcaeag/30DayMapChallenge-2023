@@ -168,6 +168,12 @@ données : https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-si
 
 ![warm](maps/30days2023-atmosphere.jpg)
 
+## [Jour 19 : 5 minutes](day19.md)
+
+![Alt text](maps/30days2023-day19-5min.thumbnail.jpg)
+
+En plus fin là : https://flic.kr/s/aHBqjB1Sdv
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
