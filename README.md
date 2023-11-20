@@ -182,7 +182,8 @@ données : https://opensky-network.org/datasets/states
 
 ![Alt text](maps/30days2023-day20-outdoor.png)
 
-<video src="maps/30days2023-day20-outdoor.mp4" controls title="Title"></video>
+[![La vidéo là](maps/30days2023-day20-outdoor.mp4)](https://raw.githubusercontent.com/xcaeag/30DayMapChallenge-2023/main/maps/30days2023-day20-outdoor.mp4)
+
 
 La HRP : https://fr.wikipedia.org/wiki/Haute_randonn%C3%A9e_pyr%C3%A9n%C3%A9enne
 
