@@ -175,6 +175,17 @@ données : https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-si
 En plus fin là : https://flic.kr/s/aHBqjB1Sdv\
 données : https://opensky-network.org/datasets/states
 
+
+## [Jour 20 : Outdoor](day20.md)
+
+2009, une traversée des Pyrénées en 28j, un itinéraire magnifique. Animation du trajet, le paysage défile.
+
+![Alt text](maps/30days2023-day20-outdoor.png)
+
+La HRP : https://fr.wikipedia.org/wiki/Haute_randonn%C3%A9e_pyr%C3%A9n%C3%A9enne
+
+Données : https://www.naturalearthdata.com/downloads/
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
