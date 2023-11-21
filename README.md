@@ -189,6 +189,12 @@ La HRP : https://fr.wikipedia.org/wiki/Haute_randonn%C3%A9e_pyr%C3%A9n%C3%A9enne
 
 Données : https://www.naturalearthdata.com/downloads/
 
+## [Jour 21 : Raster](day21.md)
+
+Un "style" pour calcul statistique de la couche raster.
+
+![Alt text](maps/30days2023-day21-raster.jpg)
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
