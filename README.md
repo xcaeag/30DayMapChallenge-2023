@@ -195,6 +195,24 @@ Un "style" pour calcul statistique de la couche raster.
 
 ![Alt text](maps/30days2023-day21-raster.jpg)
 
+## Jour 22 : North is not always up
+
+Les villes de bord de mer regardent vers le large. Vive les données vectorielles pour pivoter tout ça.. ici pour un rendu type "scan 25" de l'IGN.
+
+![Alt text](maps/30days2023-day22-north.small.jpg)
+![Alt text](maps/30days2023-day22-north.zoom.jpg)
+
+En plus fin là : https://flic.kr/s/aHBqjB1Sdv\
+
+Données : Contributeurs Open Street Map, IGN (courbes de niveau).
+
+## Jour 23 : 3D
+
+Pyrénées Ariègeoises, des profils empilés, relief légèrement exagéré.
+
+![Alt text](maps/30days2023-day23-3d.thumbnail.jpg)
+
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
