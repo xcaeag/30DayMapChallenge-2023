@@ -222,6 +222,8 @@ Je n'utilise pas de contour, mais un remplissage Blanc avec un mode de fusion "d
 
 Même principe pour les textes et décorations : blanc + fusion "différence".
 
+Données : Open Street Map Contributors du 20/11/2023.
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
