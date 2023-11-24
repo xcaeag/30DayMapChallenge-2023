@@ -212,6 +212,15 @@ Pyrénées Ariègeoises, des profils empilés, relief légèrement exagéré.
 
 ![Alt text](maps/30days2023-day23-3d.thumbnail.jpg)
 
+## Jour 24 : B&W
+
+![Alt text](maps/30days2023-day24.thumbnail.jpg)
+
+Des polygones OpenStreeMap, classés par surface croissante (les petites au dessus). Utiliser l'ordre de rendu des entités avec "$area" ascendant. Ainsi les bâtiments viennent par dessus.
+
+Je n'utilise pas de contour, mais un remplissage Blanc avec un mode de fusion "différence".
+
+Même principe pour les textes et décorations : blanc + fusion "différence".
 
 ## Ressources utilisées pour le défi
 
