@@ -216,13 +216,20 @@ Pyrénées Ariègeoises, des profils empilés, relief légèrement exagéré.
 
 ![Alt text](maps/30days2023-day24.thumbnail.jpg)
 
-Des polygones OpenStreeMap, classés par surface croissante (les petites au dessus). Utiliser l'ordre de rendu des entités avec "$area" ascendant. Ainsi les bâtiments viennent par dessus.
+Seulement les polygones OpenStreeMap.
 
-Je n'utilise pas de contour, mais un remplissage Blanc avec un mode de fusion "différence".
+Je n'utilise pas de contour, mais un remplissage Blanc avec un mode de fusion "différence". Chaque polygone inverse la couleur du précédent, et toute la pile reste visible.
 
 Même principe pour les textes et décorations : blanc + fusion "différence".
 
 Données : Open Street Map Contributors du 20/11/2023.
+
+## Jour 25 : Antarctica
+
+Un simple comparatif de surfaces avec quelques pays.
+
+![Alt text](maps/30days2023-day25.thumbnail.jpg)
+
 
 ## Ressources utilisées pour le défi
 
