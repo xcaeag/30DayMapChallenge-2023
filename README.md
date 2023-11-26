@@ -230,6 +230,9 @@ Un simple comparatif de surfaces avec quelques pays.
 
 ![Alt text](maps/30days2023-day25.thumbnail.jpg)
 
+## Jour 26 : Minimal
+
+![Alt text](maps/30days2023-day26-thumbnail.jpg)
 
 ## Ressources utilisées pour le défi
 
