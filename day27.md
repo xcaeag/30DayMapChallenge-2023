@@ -10,9 +10,9 @@ L'orientation des trames, leur mode de fusion en 'multiplication' fait le reste.
 
 ![Alt text](data/day27-tramecmyk.png)
 
-Le modèle : [rbg2cmyk-dots.model3](/xcaeag/30DayMapChallenge-2023/blob/main/algos/rbg2cmyk-dots.model3)
+Le modèle : https://github.com/xcaeag/30DayMapChallenge-2023/tree/main/algos
 
-Le style associé : [rgb2cmyk-dots.qml](/xcaeag/30DayMapChallenge-2023/tree/master/styles/rgb2cmyk-dots.qml)
+Le style associé : https://github.com/xcaeag/30DayMapChallenge-2023/tree/main/styles
 
 Les paramètres du modèle : 
 - rvb : le raster en entrée (RVB, en coordonnées métriques)
