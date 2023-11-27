@@ -4,7 +4,7 @@ __trame CMYK__
 
 ![Alt text](maps/30days2023-day27.thumbnail.jpg)
 
-Un modèle de traitement QGis qui construit 4 couches de points (quadrichromie Cyan, Magenta, Jaune, Noir) à partir d'un raster à 3 bandes Rouge, Vert, bleu. 
+Un modèle de traitement QGis (https://docs.qgis.org/3.28/fr/docs/user_manual/processing/modeler.html) qui construit 4 couches de points (quadrichromie Cyan, Magenta, Jaune, Noir) à partir d'un raster à 3 bandes Rouge, Vert, bleu. 
 
 L'orientation des trames, leur mode de fusion en 'multiplication' fait le reste.
 
