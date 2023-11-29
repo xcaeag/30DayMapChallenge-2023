@@ -250,6 +250,15 @@ On aperçoit Bordeaux, Toulouse, la forêt des Landes, les plaines agricoles du 
 
 Données : occupation du sol OSO (https://www.theia-land.fr/)
 
+## Jour 29 : Population
+
+Tentative de distribution des pixels selon l'altitude... à partir d'une carte raster et d'un MNT.
+
+Drôles de 'violin plot' texturés. Les zones peuplées sont dans les tons rouges.
+
+![Alt text](maps/30days2023-day29.3000.jpg)
+
+
 ## Ressources utilisées pour le défi
 
 - https://adour-garonne.eaufrance.fr/catalogue/1dee5bac-215e-4ea5-9e34-66e1bd9a70a1
