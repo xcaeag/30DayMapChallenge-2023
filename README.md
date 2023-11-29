@@ -258,6 +258,8 @@ Drôles de 'violin plot' texturés. Les zones peuplées sont dans les tons rouge
 
 ![Alt text](maps/30days2023-day29.3000.jpg)
 
+Données : https://data.humdata.org/dataset/kontur-population-dataset, https://www.naturalearthdata.com/downloads/
+
 
 ## Ressources utilisées pour le défi
 
@@ -273,3 +275,4 @@ Drôles de 'violin plot' texturés. Les zones peuplées sont dans les tons rouge
 - https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means
 - https://opensky-network.org/datasets/states
 - https://www.theia-land.fr/ (occupation du sol OSO)
+- https://data.humdata.org/dataset/kontur-population-dataset
