@@ -260,6 +260,13 @@ Drôles de 'violin plot' texturés. Les zones peuplées sont dans les tons rouge
 
 Données : https://data.humdata.org/dataset/kontur-population-dataset, https://www.naturalearthdata.com/downloads/
 
+## Jour 30 : My favorite..
+
+Triturer les courbes de niveau..  l'équidistance ici : 6 mois !
+
+![Alt text](maps/30days2023-day30.thumbnail.jpg)
+
+![Alt text](maps/30days2023-day30.zoom.jpg)
 
 ## Ressources utilisées pour le défi
 
