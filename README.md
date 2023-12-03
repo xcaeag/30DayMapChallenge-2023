@@ -264,6 +264,8 @@ Données : https://data.humdata.org/dataset/kontur-population-dataset, https://w
 
 Triturer les courbes de niveau..  l'équidistance ici : 6 mois !
 
+Le secret : le "buffer variable" et de gros enchaînements de scripts processing QGis.
+
 ![Alt text](maps/30days2023-day30.thumbnail.jpg)
 
 ![Alt text](maps/30days2023-day30.zoom.jpg)
